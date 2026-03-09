@@ -11,7 +11,7 @@ This project demonstrates a **modern full-stack architecture** combining:
 * MongoDB Database
 * Real-time communication using WebSockets
 
-verce Live Link :- https://smart-traffic-management-system-o71.vercel.app/
+vercel Live Link :- https://smart-traffic-management-system-o71.vercel.app/
 
 # 📌 Project Architecture
 
